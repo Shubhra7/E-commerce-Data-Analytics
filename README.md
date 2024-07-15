@@ -44,4 +44,39 @@ This dashboard helps e-commerce businesses understand their customers better. It
 - Custom Measures: Create custom measures to calculate important metrics such as conversion rate and return on investment (ROI).
 - Publish Report: Publish the report to Power BI Service.
 
-  
+
+
+### Profit By Region Chart
+
+![Screenshot 2024-07-15 161108](https://github.com/user-attachments/assets/efb1c407-4436-4dd6-bae1-59ccdaf6d1a3)
+
+### Sales Vs Profit with respect to year
+
+![image](https://github.com/user-attachments/assets/1a85b296-777f-4932-aa1d-e077d11d0360)
+
+### Sum of Sales by Country
+
+![image](https://github.com/user-attachments/assets/6eea694a-9d1d-4db2-894a-fc71ebc5c801)
+
+#### Sum of Sales, Sum of Profit and Sum of Quantity by Sub-Category and Order Date 
+
+![image](https://github.com/user-attachments/assets/d97dd919-5b75-4488-b0dc-79abbb685e0c)
+
+### Sum of Sales and Sum of Profit by Year and Category
+
+![image](https://github.com/user-attachments/assets/42744e17-a44e-4b6e-a061-b9638b800fa7)
+
+### Country and Market 
+
+![image](https://github.com/user-attachments/assets/80e224db-dce5-4bfe-b147-f4759c930536)
+
+### Sum of Profit and Target Profit
+
+![image](https://github.com/user-attachments/assets/aee3c170-7c9f-4c1e-bd76-2ffe8c1e2481)
+
+### Sum of Sales and Target Sales
+
+![image](https://github.com/user-attachments/assets/9f6128e5-93f2-4cdc-89a0-e52a8ebf3b6f)  
+
+###            REPORT 
+![image](https://github.com/user-attachments/assets/6c6a2474-151e-4ee8-8d7e-a20aebccf709)
